@@ -34,7 +34,7 @@ int main(){
     cout<<endl;
 
     cout<<"size of list "<<l.size()<<endl;
-    
+
     
     
 }
